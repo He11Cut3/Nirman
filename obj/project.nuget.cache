@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kfO8it1LwKhz4MPSuLKBqVjJsrxjcDK1YFTtz8YL12s91TMv+Hod1GmLS1MOKPsJmudNcd3U2tbUi5v9ceJjSQ==",
+  "dgSpecHash": "VI37apxv8LQbsJWsp5nJ5c6rPJl9S4M9vtv3VAxOFi4v2RTR0JkzVld8OLYb0G/dOl5vk29yMxlrsJWXceURcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\Nirsman.csproj",
+  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Nirman\\Nirsman.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kek13\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -10236,11 +10236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\Nirsman.csproj",
+      "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Nirman\\Nirsman.csproj",
       "projectName": "Nirsman",
-      "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\Nirsman.csproj",
+      "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Nirman\\Nirsman.csproj",
       "packagesPath": "C:\\Users\\kek13\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\obj\\",
+      "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Nirman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\WQ\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nirsman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+905e6b61816fecfe4f994d6f0dbc7c67b2d31008")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nirsman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nirsman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

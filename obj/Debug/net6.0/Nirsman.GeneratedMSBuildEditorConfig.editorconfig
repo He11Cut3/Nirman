@@ -9,95 +9,95 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nirsman
 build_property.RootNamespace = Nirsman
-build_property.ProjectDir = C:\Users\kek13\OneDrive\Рабочий стол\Nirsman\
+build_property.ProjectDir = C:\Users\kek13\OneDrive\Рабочий стол\01\Git\Nirman\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kek13\OneDrive\Рабочий стол\Nirsman
+build_property.MSBuildProjectDirectory = C:\Users\kek13\OneDrive\Рабочий стол\01\Git\Nirman
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Account/Create.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Account/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Account/Login.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Account/ViewHistory.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Account/ViewHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxWaWV3SGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Cart/Index.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Home/About.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Home/Index.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Home/Privacy.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Home/Team.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Home/Team.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/CssPartial.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/CssPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENzc1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/Error.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/FooterPartial.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/HeaderPartial.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/MetaTagPartial.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/MetaTagPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1ldGFUYWdQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/ScriptPartial.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/ScriptPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNjcmlwdFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Store/Create.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Store/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Store/Details.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Store/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Store/Index.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Store/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/_ViewImports.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/_ViewStart.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kek13/OneDrive/Рабочий стол/Nirsman/Views/Shared/_Layout.cshtml]
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/Nirman/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dmoz5waj5g
