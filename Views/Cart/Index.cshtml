@@ -1,0 +1,87 @@
+﻿@model CartViewModel
+
+<!-- pagebanner -->
+<section id="pagebanner">
+    <div class="page-title">
+        <h2 class="white text-center">Корзина</h2>
+    </div>
+</section>
+<!-- End Pagebann
+
+<!-- cart -->
+<section id="cart-main" class="cart-main">
+    <div class="container">
+        <div class="cart-inner">
+            <div class="cart-table-list">
+                <div class="order-list">
+                    <table class="shop_table rt-checkout-review-order-table">
+                        <thead>
+                            <tr>
+                                <th class="product-name">Наименование</th>
+                                <th class="product-price">Стоимость</th>
+                                <th class="product-quantity">Кол-во</th>
+                                <th class="product-total">Итог</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach(var item in Model.CartItems)
+                            {
+                                <tr>
+
+                                    <td class="cart_item">
+                                        <span class="product-name">@item.ProductName</span>
+                                    </td>
+
+                                    <td><span class="rt-Price-amount">@item.Price.ToString("C2")</span></td>
+
+                                    <td>
+                                        <span class="quantity-buttons">
+                                            <a asp-action="Add" asp-route-id="@item.Id">+</a>
+                                            <a asp-action="Decrease" asp-route-id="@item.Id">-</a>
+                                            <a asp-action="Remove" asp-route-id="@item.Id">Удалить</a>
+                                        </span>
+                                    </td>
+
+                                    <td class="cart-subtotal">
+                                        <span class="rt-Price-amount"><span>@Model.CartItems.Where(x => x.Id == item.Id).Sum(x => x.Quantity * x.Price).ToString("C2")</span></span>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="checkout-order">
+                <h3 class="mar-bottom-20">Итог</h3>
+                <div class="order-list">
+                    <table class="shop_table rt-checkout-review-order-table">
+                        <tfoot>
+
+                            <tr class="cart-subtotal">
+                                <th>Стоимость</th>
+                                <td>
+                                    <span class="rt-Price-amount">@Model.GrandTotal.ToString("C2")</span>
+                                </td>
+                            </tr>
+
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+
+            <div class="checkout-place-order">
+                <p>
+                    Ваши личные данные будут использоваться для обработки вашего заказа, поддержки вашего взаимодействия с этим веб-сайтом и для других целей, описанных в нашей политике конфиденциальности.
+                </p>
+
+                <form method="post" asp-controller="Cart" asp-action="CreateOrder">
+                    <!-- Ваш текущий код -->
+                    <button type="submit" class="btn mt_btn_yellow">Оформить заказ</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End store -->

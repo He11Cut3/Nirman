@@ -1,0 +1,61 @@
+﻿@model List<Product>
+
+<!-- pagebanner -->
+<section id="pagebanner">
+    <div class="page-title">
+        <h2 class="white text-center">Продукция</h2>
+    </div>
+</section>
+<!-- End Pagebanner -->
+
+<!-- store -->
+<section id="our_store" class="our_store">
+    <div class="container">
+
+        <div class="row">
+
+            @foreach(var item in Model)
+            {
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="rt-product-wrapper">
+                        <div class="product-thumbnail-wrapper">
+                            <div class="product-image">
+
+                                @if (item.Image != null)
+                                {
+                                    var base64 = Convert.ToBase64String(item.Image);
+                                    var imgSrc = string.Format("data:image/png;base64,{0}", base64);
+                                    <img class="" height="257" width="343" src="@imgSrc" alt="">
+                                }
+                            </div>
+                        </div>
+                        <div class="rt-product-meta-wrapper">
+                            <h3 class="product_title">
+                                <a asp-controller="Store" asp-action="Details" asp-route-id="@item.Id">@item.Name</a>
+                            </h3>
+                            <div class="rt-cartprice-wrapper">
+                                <span class="price mar-bottom-20">
+                                        <span class="rrt-price-amount">
+                                            <span>@item.Price</span>Руб.
+                                        </span>
+                                </span>
+                                <div class="button">
+                                    <a asp-controller="Store" asp-action="Details" asp-route-id="@item.Id" class="mt_btn_yellow">Посмотреть подробно</a>
+                                    @if (User.IsInRole("Admin"))
+                                    {
+                                        <a asp-controller="Store" asp-action="DeleteProduct" asp-route-id="@item.Id" class="btn btn-danger">Удалить</a>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+            
+
+            
+        </div>
+
+    </div>
+</section>
+<!-- End store -->

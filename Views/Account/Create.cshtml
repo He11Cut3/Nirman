@@ -1,0 +1,45 @@
+﻿@model AppUser
+
+
+<section id="pagebanner">
+    <div class="page-title">
+        <h2 class="white text-center">Регистрация</h2>
+    </div>
+</section>
+
+
+
+
+
+<section class="">
+    <div class="contact-inner">
+                <div class="col-md-6">
+                    <div class="contact_form">
+                    <form asp-controller="Account" asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="UserName" class="control-label">Имя пользователя</label>
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label">Электронная почта</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label">Пароль</label>
+                            <input asp-for="Password" type="password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+
+                        <button type="submit" class="mt_btn_yellow">Зарегистрироваться</button>
+                    </form>
+                    </div>
+                </div>
+    </div>
+</section>

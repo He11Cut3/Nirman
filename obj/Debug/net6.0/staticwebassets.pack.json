@@ -1,0 +1,901 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nirsman.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nirsman.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\css\\plugin.css",
+      "PackagePath": "staticwebassets\\css\\plugin.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\fontawesome-webfont93e3.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\fontawesome-webfont93e3.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\fontawesome-webfont93e3.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\fontawesome-webfont93e3.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\fontawesome-webfont93e3.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\glyphicons-halflings-regular-2.html",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\glyphicons-halflings-regular-3.html",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\glyphicons-halflings-regular-4.html",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\glyphicons-halflings-regular-5.html",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular-5.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\glyphicons-halflings-regular.html",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.html",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.html"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\Construction.mp4",
+      "PackagePath": "staticwebassets\\images\\Construction.mp4"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\arrow-left.png",
+      "PackagePath": "staticwebassets\\images\\arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\arrow-right.png",
+      "PackagePath": "staticwebassets\\images\\arrow-right.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\backtotop.png",
+      "PackagePath": "staticwebassets\\images\\backtotop.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_02.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_07.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_08.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_09.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_12.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_13.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_14.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_15.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_16.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_17.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_18.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_19.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_20.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_02.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_07.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog-listing\\blog_list_08.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-listing\\blog_list_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\author.png",
+      "PackagePath": "staticwebassets\\images\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\cmnt-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cmnt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\cmnt-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cmnt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\cmnt-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cmnt-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\blog\\r-post-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\r-post-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\body.png",
+      "PackagePath": "staticwebassets\\images\\body.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\c-logo.png",
+      "PackagePath": "staticwebassets\\images\\c-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\icon-cross.png",
+      "PackagePath": "staticwebassets\\images\\icon-cross.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_01.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_02.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_03.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_04.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_05.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_06.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_07.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_08.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_09.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_10.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_11.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\insta\\insta_12.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\pagebanner.jpg",
+      "PackagePath": "staticwebassets\\images\\pagebanner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-1.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-10.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-10.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-2.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-3.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-4.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-5.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-6.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-7.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-7.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-8.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-8.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\partner\\p-9.png",
+      "PackagePath": "staticwebassets\\images\\partner\\p-9.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\pic1.png",
+      "PackagePath": "staticwebassets\\images\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\product\\prd-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\prd-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw10.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw11.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw12.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw13.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw5.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw6.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw7.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw8.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\project\\bw9.jpg",
+      "PackagePath": "staticwebassets\\images\\project\\bw9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\service-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\service-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-6.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-7.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-8.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\slider\\slide-9.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\cmember-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\cmember-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\cmember-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\cmember-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\member-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\member-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\member-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\member-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\member-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\member-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\member-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\member-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\mmember-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\mmember-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\mmember-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\mmember-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\mmember-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\mmember-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\mmember-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\mmember-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\rmember-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\rmember-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\rmember-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\rmember-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\rmember-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\rmember-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\rmember-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\rmember-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\team1.png",
+      "PackagePath": "staticwebassets\\images\\team\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\team2.png",
+      "PackagePath": "staticwebassets\\images\\team\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\team3.png",
+      "PackagePath": "staticwebassets\\images\\team\\team3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\team\\team4.png",
+      "PackagePath": "staticwebassets\\images\\team\\team4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\testi-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\images\\watch_inner.jpg",
+      "PackagePath": "staticwebassets\\images\\watch_inner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\custom-map.js",
+      "PackagePath": "staticwebassets\\js\\custom-map.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\custom-nav.js",
+      "PackagePath": "staticwebassets\\js\\custom-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\custom-video.js",
+      "PackagePath": "staticwebassets\\js\\custom-video.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\custom.timer.js",
+      "PackagePath": "staticwebassets\\js\\custom.timer.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\ekko-lightbox.min.js",
+      "PackagePath": "staticwebassets\\js\\ekko-lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery-modal-video.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-modal-video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\rhino_slider_min.js",
+      "PackagePath": "staticwebassets\\js\\rhino_slider_min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\slicknav.js",
+      "PackagePath": "staticwebassets\\js\\slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Nirsman\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Nirsman.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Nirsman.props",
+      "PackagePath": "build\\Nirsman.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Nirsman.props",
+      "PackagePath": "buildMultiTargeting\\Nirsman.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Nirsman.props",
+      "PackagePath": "buildTransitive\\Nirsman.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

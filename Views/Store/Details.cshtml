@@ -1,0 +1,83 @@
+﻿@model Product
+
+
+<section id="pagebanner">
+    <div class="page-title">
+        <h2 class="white text-center">Информация о товаре</h2>
+    </div>
+</section>
+
+<!--store detail -->
+<section id="store-detail" class="store-detail">
+    <div class="container">
+        <div class="single-product-content">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="thumbnail-images">
+                        <div class="slider slider-store">
+                            <div>
+                                @if (Model.Image != null)
+                                {
+                                    var base64 = Convert.ToBase64String(Model.Image);
+                                    var imgSrc = string.Format("data:image/png;base64,{0}", base64);
+                                    <img class="" height="343" width="257" src="@imgSrc" alt="">
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="single-product-summary">
+                        <div class="entry-summary">
+                            <h2 class="single-product-title">@Model.Name</h2>
+                            <div class="rt-product-meta-wrapper">
+                                <span class="price">
+                                    <span class="rt-price-amount">
+                                        <span>@Model.Price</span>Руб.
+                                    </span>
+                                </span>
+                            </div>
+
+                            <a asp-controller="Cart" asp-action="Add" asp-route-id="@Model.Id" class="mt_btn_yellow">Добавить в корзину</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--/End store detail -->
+<!-- store tab -->
+<section id="store-tabs" class="store-tabs">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 ">
+                <div id="store-tab-main" class="">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#1" data-toggle="tab">Описание</a></li>
+                    </ul>
+
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="1">
+                            <p>@Html.Raw(Model.Description)</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End store tab -->
+<!--*Newsletter*-->
+<div id="newsletter">
+    <div class="container">
+        <div class="row">
+            
+        </div>
+    </div>
+</div>
+<!--*End Newsletter*-->
